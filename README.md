@@ -1,6 +1,6 @@
 # gigi_control_app
 
-UI design of a car control app using Flutter.
+Animated UI design of a car control app using Flutter.
 
 ## Getting Started
 
